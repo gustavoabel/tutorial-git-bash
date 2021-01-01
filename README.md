@@ -2,7 +2,7 @@
 
 ### Sumário
 
-* Bash
+* Bash.
   * [Atalhos globais do Bash](#atalhos-globais-do-bash)
   * [Diretórios](#diretórios)
   * [Ajuda no terminal](#ajuda-no-terminal)
